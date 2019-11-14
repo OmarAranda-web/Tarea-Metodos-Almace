@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tarea Almacenacmientos</title>
+</head>
+<body>
+        <h1>Tipos de Memoria </h1><br>
+    <p> <br>
+    <p> <br>
+     <h1>Disco duro Sata</h1> <br>  
+     <p><br>
+    <li>SATA son las siglas de Serial Advanced Technology Attachment y es un tipo de interfaz de disco duro. Aunque SATA es el nombre de la interfaz, normalmente se usa para describir el tipo de disco duro usado, por ejemplo 7.2K SATA.</li>
+    <p></p>
+    <h2>Velocidades SATA</h2><br>
+    <li>Por lo que respecta a la velocidad, la mejor medida es IOPS (Inputs Outputs per Second) que mide el rendimiento según el cálculo de la tasa de datos que pueden ser leídos o escritos en un disco duro.</li>
+    <li>Compárese con los cerca de 120 IOPS de un disco duro 10K SAS y los 180 IOPS de un disco duro 15K SAS.</li>
+   <h2>Capacidad SATA</h2><br>
+   <li>La capacidad de los discos SATA puede ir de 500GB a 8TB. </li>
+   <h2>Fiabilidad SATA</h2><br>
+   <li>Los discos SATA tienen un tiempo medio entre fallos (Mean Time Between Failures, MTBF) que normalmente se sitúa entre las 700.000 horas.</li>
+   <h2>Consumo de energía SATA</h2><br>
+   <li>Los discos SATA normalmente consumen entre 4 y 6 Watts en reposo y entre 10 y 12 Watts en condiciones normales de operación.</li>
+   <h2>Versiones SATA</h2><br>
+   <h3>SATA I</h3><br>
+   <li>También conocida anteriormente como SATA 1.5GB/s, SATA I opera a 1.5GB/s y puede manejar un throughput de ancho de banda de hasta 150MB/s.</li>
+   <h3>SATA II</h3><br>
+   <li>También conocida previamente como SATA 3GB/s, SATA II opera a 3GB/s y puede manejar un throughput de ancho de banda de hasta 300 MB/s.</li>
+   <h3>SATA III</h3><br>
+   <li>Conocida anteriormente como SATA 6GB/s, SATA III opera a 6GB/s, puede manejar un throughput de ancho de banda de hasta 600 MB/s y es compatible con SATA II.</li>
+   <p></p><br>
+   <h1>Discos Duros SAS</h1><br>
+   <li>SAS son las siglas de Serial Attached SCSI (SCSI son las siglas de Small Computer System Interface, normalmente pronunciado como “scuzzy”) y es una tecnología de transferencia de datos desde y hacia discos duros.</li>
+   <li>El disco duro SAS es un dispositivo electromecánico que se encarga de almacenar y leer grandes volúmenes de información a altas velocidades por medio de pequeños electroimanes  (también llamadas cabezas de lectura y escritura), sobre un disco recubierto de limadura magnética. Los discos vienen montados sobre un eje que gira a altas velocidades. </li>
+   <h2>Velocidad de SAS</h2><br>
+   <li>Un típico disco 10K SAS opera a unos 120 IOPS mientras que uno 15K SAS lo hace a 180 IOPS.</li>
+   <h2>Capacidad SAS</h2><br>
+   <li>Los discos SAS tienen capacidades de entre 300GB y 900GB.</li>
+   <h2>Fiabilidad SAS</h2><br>
+   <li>Los discos SAS tienen un tiempo medio entre fallos (MTBF por sus siglas en inglés) que se sitúa normalmente en alrededor de 1,2 millones de horas.</li>
+   <h2>Consumo de energía SAS</h2><br>
+   <li>Los discos SAS normalmente consumen entre 5 y 7 Watts cuando están en reposo, mientras que consumen entre 10 y 14 Watts durante condiciones operativas normales.</li>
+   <p></p><br>
+   <h1>Discos duros SSD</h1><br>}
+   <li>SSD es el acrónimo de Solid State Drive o lo que es lo mismo unidad de estado sólido.</li>
+   <li>Los tiempos de acceso a los Discos Duro SSD son hasta diez veces más rápidos que los discos duros convencionales, tienen menos desgaste debido a que los discos SSD no tienen partes mecánicas, son sólidos.</li>
+   <li>Las SSD almacenan los archivos en microchips con memorias flash interconectadas entre sí.</li>
+   <li>Los SSD suelen utilizar memorias flash basadas en NAND, que como también son no-volátiles mantienen la información almacenada cuando el disco se desconecta.</li>
+   <li>CAPACIDAD: En general entre 256 GB y 4 TB</li>
+   <li>TRANSFERENCIA DE DATOS: En general, entre 200 y 550 MB/s</li>
+   <li>Peso:80g</li>
+   <li>Tiene dos tipos de SSD la Normal y la M2</li>
+   <li>Fiablidad es de MTBF 1000000</li>
+   <li>Resistencia de 1500 G</li>
+   <p></p><br>
+   <h1>Metodo NAND</h1><br>
+   <li>La compuerta NAND se dice que es una compuerta universal porque cualquier sistema digital puede implementarse con ella.</li>
+   <li>NAND es obtener las funciones booleanas simplificadas en términos de AND, OR y NOT y convertir las funciones en la lógica NAND. La conversión de la expresión algebraica para operaciones AND, OR y NOT en operaciones NAND, por lo común es bastante complicada debido a que implica un gran número de aplicaciones del teorema de De Morgan. Esta dificultad se evita por el uso de simple manipulaciones de circuito las siguientes simples reglas:
+    </li>
+
+</body>
+</html>
